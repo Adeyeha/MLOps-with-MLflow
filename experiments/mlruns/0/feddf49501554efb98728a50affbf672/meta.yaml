@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/feddf49501554efb98728a50affbf672/artifacts
+end_time: 1675151664043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feddf49501554efb98728a50affbf672
+run_name: rare-quail-681
+run_uuid: feddf49501554efb98728a50affbf672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675151658000
+status: 4
+tags: []
+user_id: cisadmin

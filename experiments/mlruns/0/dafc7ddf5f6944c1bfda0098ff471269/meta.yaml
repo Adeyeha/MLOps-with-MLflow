@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dafc7ddf5f6944c1bfda0098ff471269/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dafc7ddf5f6944c1bfda0098ff471269
+run_name: gaudy-turtle-311
+run_uuid: dafc7ddf5f6944c1bfda0098ff471269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675150274964
+status: 1
+tags: []
+user_id: mraji855

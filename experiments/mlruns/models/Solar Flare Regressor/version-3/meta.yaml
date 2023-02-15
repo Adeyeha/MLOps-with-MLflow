@@ -1,0 +1,12 @@
+creation_timestamp: 1675152796162
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1675152818422
+name: Solar Flare Regressor
+run_id: 9119f3f3b5ab422ea5b91e43d33f4089
+run_link: ''
+source: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/395320251817281180/9119f3f3b5ab422ea5b91e43d33f4089/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 3

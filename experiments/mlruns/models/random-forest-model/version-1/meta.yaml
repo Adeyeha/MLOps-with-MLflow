@@ -1,0 +1,12 @@
+creation_timestamp: 1675154543005
+current_stage: Production
+description: ''
+last_updated_timestamp: 1675154566356
+name: random-forest-model
+run_id: 4d68fefa0b8e4addb9061f4354af24c5
+run_link: ''
+source: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/654934164191656106/4d68fefa0b8e4addb9061f4354af24c5/artifacts/random-forest-model
+status: READY
+status_message: null
+user_id: null
+version: 1

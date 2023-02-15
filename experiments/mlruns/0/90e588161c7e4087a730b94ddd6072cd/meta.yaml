@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/90e588161c7e4087a730b94ddd6072cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90e588161c7e4087a730b94ddd6072cd
+run_name: inquisitive-deer-610
+run_uuid: 90e588161c7e4087a730b94ddd6072cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675149904312
+status: 1
+tags: []
+user_id: cisadmin

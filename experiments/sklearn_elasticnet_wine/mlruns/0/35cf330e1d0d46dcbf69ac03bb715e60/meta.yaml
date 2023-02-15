@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/sklearn_elasticnet_wine/mlruns/0/35cf330e1d0d46dcbf69ac03bb715e60/artifacts
+end_time: 1675142382954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35cf330e1d0d46dcbf69ac03bb715e60
+run_name: indecisive-crane-667
+run_uuid: 35cf330e1d0d46dcbf69ac03bb715e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675142380191
+status: 3
+tags: []
+user_id: mraji855

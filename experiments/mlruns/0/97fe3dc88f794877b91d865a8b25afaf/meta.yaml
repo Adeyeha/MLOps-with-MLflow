@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/97fe3dc88f794877b91d865a8b25afaf/artifacts
+end_time: 1675151833342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97fe3dc88f794877b91d865a8b25afaf
+run_name: calm-hound-499
+run_uuid: 97fe3dc88f794877b91d865a8b25afaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675151826938
+status: 4
+tags: []
+user_id: cisadmin

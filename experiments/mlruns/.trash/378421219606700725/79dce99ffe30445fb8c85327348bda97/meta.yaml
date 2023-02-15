@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/378421219606700725/79dce99ffe30445fb8c85327348bda97/artifacts
+end_time: 1674770143400
+entry_point_name: ''
+experiment_id: '378421219606700725'
+lifecycle_stage: active
+run_id: 79dce99ffe30445fb8c85327348bda97
+run_name: Using Manual Tracking
+run_uuid: 79dce99ffe30445fb8c85327348bda97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674770136906
+status: 3
+tags: []
+user_id: mraji855

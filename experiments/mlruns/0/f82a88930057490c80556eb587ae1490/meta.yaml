@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f82a88930057490c80556eb587ae1490/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f82a88930057490c80556eb587ae1490
+run_name: useful-bass-464
+run_uuid: f82a88930057490c80556eb587ae1490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675147551862
+status: 1
+tags: []
+user_id: mraji855

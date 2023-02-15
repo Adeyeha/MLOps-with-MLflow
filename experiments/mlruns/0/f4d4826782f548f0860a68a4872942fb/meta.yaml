@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4d4826782f548f0860a68a4872942fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4d4826782f548f0860a68a4872942fb
+run_name: chill-crow-923
+run_uuid: f4d4826782f548f0860a68a4872942fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675149232288
+status: 1
+tags: []
+user_id: cisadmin

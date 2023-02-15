@@ -1,0 +1,62 @@
+version: '3.3'
+
+services:
+    db:
+        restart: always
+        image: mysql
+        container_name: mlflow_db
+        expose:
+            - "3306"
+        ports:
+            - "3306:3306"
+        networks:
+            - backend
+        environment:
+            - MYSQL_DATABASE=mlflow_database
+            - MYSQL_USER=mlflow
+            - MYSQL_PASSWORD=qwerty
+            - MYSQL_ROOT_PASSWORD=qwerty
+        volumes:
+            - dbdata2:/var/lib/mysql
+            
+         
+    web:
+    
+        depends_on:
+            - db
+        restart: always
+        build: ./mlflow
+        image: mlflow_server
+        container_name: mlflow_server
+        expose:
+            - "5000"
+        ports:
+            - "5000:5000"
+        networks:
+            - frontend
+            - backend
+        environment:
+            - MLFLOW_TRACKING_URI=/mnt/mlruns/
+        command: mlflow server --backend-store-uri mysql+pymysql://mlflow:qwerty@db:3306/mlflow_database --default-artifact-root /mnt/mlruns/ --host 0.0.0.0  
+    
+    
+    nginx:
+        restart: always
+        build: ./nginx
+        image: mlflow_nginx
+        container_name: mlflow_nginx
+        ports:
+            - "80:80"
+        networks:
+            - frontend
+        depends_on:
+            - web
+
+networks:
+    frontend:
+        driver: bridge
+    backend:
+        driver: bridge
+            
+volumes:
+    dbdata2:

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/sklearn_elasticnet_wine/mlruns/0/12d4bcab5c1b4ae59acd506ccd6f869c/artifacts
+end_time: 1675142379844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12d4bcab5c1b4ae59acd506ccd6f869c
+run_name: spiffy-dolphin-229
+run_uuid: 12d4bcab5c1b4ae59acd506ccd6f869c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675142377132
+status: 3
+tags: []
+user_id: mraji855

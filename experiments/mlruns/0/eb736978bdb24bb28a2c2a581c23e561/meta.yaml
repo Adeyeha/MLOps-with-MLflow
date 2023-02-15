@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eb736978bdb24bb28a2c2a581c23e561/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb736978bdb24bb28a2c2a581c23e561
+run_name: intrigued-duck-702
+run_uuid: eb736978bdb24bb28a2c2a581c23e561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675145635129
+status: 1
+tags: []
+user_id: mraji855

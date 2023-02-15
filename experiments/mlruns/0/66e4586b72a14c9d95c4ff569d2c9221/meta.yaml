@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/66e4586b72a14c9d95c4ff569d2c9221/artifacts
+end_time: 1675152003003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66e4586b72a14c9d95c4ff569d2c9221
+run_name: selective-cat-295
+run_uuid: 66e4586b72a14c9d95c4ff569d2c9221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675151999652
+status: 3
+tags: []
+user_id: cisadmin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f5fdb0c2008648d9bc4d06b24b2c829b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5fdb0c2008648d9bc4d06b24b2c829b
+run_name: serious-robin-903
+run_uuid: f5fdb0c2008648d9bc4d06b24b2c829b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675145605052
+status: 1
+tags: []
+user_id: mraji855

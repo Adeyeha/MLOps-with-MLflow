@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/decbeee12b9e43128864a3c6755872ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: decbeee12b9e43128864a3c6755872ee
+run_name: loud-squid-652
+run_uuid: decbeee12b9e43128864a3c6755872ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675150290407
+status: 1
+tags: []
+user_id: cisadmin

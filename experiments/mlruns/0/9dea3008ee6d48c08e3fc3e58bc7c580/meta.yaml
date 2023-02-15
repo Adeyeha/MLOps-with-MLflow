@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9dea3008ee6d48c08e3fc3e58bc7c580/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dea3008ee6d48c08e3fc3e58bc7c580
+run_name: clean-skink-63
+run_uuid: 9dea3008ee6d48c08e3fc3e58bc7c580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675150060689
+status: 1
+tags: []
+user_id: cisadmin

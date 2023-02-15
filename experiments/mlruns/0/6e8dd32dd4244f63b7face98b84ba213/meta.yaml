@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6e8dd32dd4244f63b7face98b84ba213/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e8dd32dd4244f63b7face98b84ba213
+run_name: adventurous-bass-164
+run_uuid: 6e8dd32dd4244f63b7face98b84ba213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675150796123
+status: 1
+tags: []
+user_id: cisadmin

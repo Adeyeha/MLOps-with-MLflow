@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/452200586890328436/26e88e6d9ad34d1cb5cc43c5c7362243/artifacts
+end_time: 1675213056391
+entry_point_name: ''
+experiment_id: '452200586890328436'
+lifecycle_stage: active
+run_id: 26e88e6d9ad34d1cb5cc43c5c7362243
+run_name: Hyperparameter Tuning - 4
+run_uuid: 26e88e6d9ad34d1cb5cc43c5c7362243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675213050570
+status: 3
+tags: []
+user_id: mraji855

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de79a4adbd6043c99b2b02d732af6b2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de79a4adbd6043c99b2b02d732af6b2d
+run_name: inquisitive-swan-421
+run_uuid: de79a4adbd6043c99b2b02d732af6b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675151293723
+status: 1
+tags: []
+user_id: cisadmin

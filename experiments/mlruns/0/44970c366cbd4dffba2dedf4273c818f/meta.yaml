@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/44970c366cbd4dffba2dedf4273c818f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44970c366cbd4dffba2dedf4273c818f
+run_name: colorful-grub-911
+run_uuid: 44970c366cbd4dffba2dedf4273c818f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675143112250
+status: 1
+tags: []
+user_id: mraji855

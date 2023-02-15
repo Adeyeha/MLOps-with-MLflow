@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/sklearn_elasticnet_wine/mlruns/0/8dfec371f8a34d528f9c7872dabbd460/artifacts
+end_time: 1675142376754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dfec371f8a34d528f9c7872dabbd460
+run_name: salty-dove-129
+run_uuid: 8dfec371f8a34d528f9c7872dabbd460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675142372399
+status: 3
+tags: []
+user_id: mraji855

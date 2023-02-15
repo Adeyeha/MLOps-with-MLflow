@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/010b3dbbbb36459fac23aa678a3d4c1f/artifacts
+end_time: 1675152160921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 010b3dbbbb36459fac23aa678a3d4c1f
+run_name: industrious-kite-720
+run_uuid: 010b3dbbbb36459fac23aa678a3d4c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675152157682
+status: 3
+tags: []
+user_id: cisadmin

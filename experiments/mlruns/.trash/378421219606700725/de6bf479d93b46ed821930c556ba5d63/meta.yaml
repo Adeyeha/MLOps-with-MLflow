@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/378421219606700725/de6bf479d93b46ed821930c556ba5d63/artifacts
+end_time: 1674770257330
+entry_point_name: ''
+experiment_id: '378421219606700725'
+lifecycle_stage: active
+run_id: de6bf479d93b46ed821930c556ba5d63
+run_name: Auto-Tracking - 3
+run_uuid: de6bf479d93b46ed821930c556ba5d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674770253807
+status: 3
+tags: []
+user_id: mraji855

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13720eb7c8924d78a8da49c2853a184a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13720eb7c8924d78a8da49c2853a184a
+run_name: brawny-swan-606
+run_uuid: 13720eb7c8924d78a8da49c2853a184a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675148306017
+status: 1
+tags: []
+user_id: mraji855

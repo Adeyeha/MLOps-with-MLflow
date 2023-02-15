@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mraji855/Documents/Mlflow/Experiments/mlruns/654934164191656106/0bdefc54dccb4cbc9e3874ddb1374226/artifacts
+end_time: 1675214851165
+entry_point_name: ''
+experiment_id: '654934164191656106'
+lifecycle_stage: active
+run_id: 0bdefc54dccb4cbc9e3874ddb1374226
+run_name: Baseline
+run_uuid: 0bdefc54dccb4cbc9e3874ddb1374226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675214841193
+status: 3
+tags: []
+user_id: mraji855

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a141eb1c5eef49e39ba2165695ecb3da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a141eb1c5eef49e39ba2165695ecb3da
+run_name: honorable-snail-194
+run_uuid: a141eb1c5eef49e39ba2165695ecb3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675152630825
+status: 1
+tags: []
+user_id: mraji855

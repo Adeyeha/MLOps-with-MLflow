@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e9be64b3609f42099f8e7b4d8cb27e79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9be64b3609f42099f8e7b4d8cb27e79
+run_name: gregarious-doe-797
+run_uuid: e9be64b3609f42099f8e7b4d8cb27e79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675145583628
+status: 1
+tags: []
+user_id: mraji855

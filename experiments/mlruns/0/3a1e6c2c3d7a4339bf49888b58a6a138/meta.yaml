@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a1e6c2c3d7a4339bf49888b58a6a138/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a1e6c2c3d7a4339bf49888b58a6a138
+run_name: sassy-bat-925
+run_uuid: 3a1e6c2c3d7a4339bf49888b58a6a138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675149776968
+status: 1
+tags: []
+user_id: cisadmin

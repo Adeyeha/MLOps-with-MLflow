@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1b8d04f6d1ae4917882849a97a85139f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b8d04f6d1ae4917882849a97a85139f
+run_name: bedecked-croc-945
+run_uuid: 1b8d04f6d1ae4917882849a97a85139f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675149975537
+status: 1
+tags: []
+user_id: cisadmin

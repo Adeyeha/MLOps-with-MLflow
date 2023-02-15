@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/91396e9ab5534d97be7d1abf4851a3f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91396e9ab5534d97be7d1abf4851a3f3
+run_name: loud-horse-884
+run_uuid: 91396e9ab5534d97be7d1abf4851a3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675144857672
+status: 1
+tags: []
+user_id: mraji855

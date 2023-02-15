@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/228b21facd39443aa3e76072bdfa243d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228b21facd39443aa3e76072bdfa243d
+run_name: calm-cub-547
+run_uuid: 228b21facd39443aa3e76072bdfa243d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675148575925
+status: 1
+tags: []
+user_id: mraji855

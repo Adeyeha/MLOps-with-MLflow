@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9c729f819af8432c9a7d2e86e331f2cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c729f819af8432c9a7d2e86e331f2cf
+run_name: calm-bird-378
+run_uuid: 9c729f819af8432c9a7d2e86e331f2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675148224400
+status: 1
+tags: []
+user_id: mraji855

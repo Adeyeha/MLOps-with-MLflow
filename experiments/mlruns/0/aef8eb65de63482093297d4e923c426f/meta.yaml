@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aef8eb65de63482093297d4e923c426f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aef8eb65de63482093297d4e923c426f
+run_name: incongruous-ram-343
+run_uuid: aef8eb65de63482093297d4e923c426f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675148452782
+status: 1
+tags: []
+user_id: mraji855

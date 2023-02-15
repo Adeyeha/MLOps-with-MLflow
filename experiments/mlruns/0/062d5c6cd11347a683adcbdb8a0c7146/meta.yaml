@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/062d5c6cd11347a683adcbdb8a0c7146/artifacts
+end_time: 1675152145766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062d5c6cd11347a683adcbdb8a0c7146
+run_name: nosy-sow-656
+run_uuid: 062d5c6cd11347a683adcbdb8a0c7146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675152142456
+status: 3
+tags: []
+user_id: mraji855

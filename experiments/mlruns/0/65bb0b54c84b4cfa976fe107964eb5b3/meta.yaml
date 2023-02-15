@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65bb0b54c84b4cfa976fe107964eb5b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65bb0b54c84b4cfa976fe107964eb5b3
+run_name: glamorous-smelt-654
+run_uuid: 65bb0b54c84b4cfa976fe107964eb5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675151356946
+status: 1
+tags: []
+user_id: cisadmin

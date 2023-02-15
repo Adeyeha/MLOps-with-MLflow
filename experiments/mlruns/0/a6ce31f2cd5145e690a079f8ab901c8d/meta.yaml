@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a6ce31f2cd5145e690a079f8ab901c8d/artifacts
+end_time: 1675152287547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6ce31f2cd5145e690a079f8ab901c8d
+run_name: clean-goat-997
+run_uuid: a6ce31f2cd5145e690a079f8ab901c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675152174197
+status: 3
+tags: []
+user_id: cisadmin
